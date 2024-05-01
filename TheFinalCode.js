@@ -10,7 +10,7 @@ from openpyxl import load_workbook
 from tkinter.filedialog import askdirectory
 
 
-TestResultCheck = 1
+TestResultCheck = 2
 
 FileName1 = ""
 FileName2 = ""
